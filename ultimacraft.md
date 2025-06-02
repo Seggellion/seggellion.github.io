@@ -94,8 +94,8 @@ UltimaCraft is a massive overhaul mod for Minecraft 1.21.1 built with NeoForge, 
 <div class="row">
 <ul class="actions">
 	<li><a target="_blank" href="https://github.com/Seggellion/Britannia_Mod/" class="button special">Github</a></li>
-	<li><a target="_blank" href="https://ultimacraft.com" class="button">Website</a></li>
-	<li><a target="_blank" href="https://ultimacraft.com/downloads" class="button icon fa-download">Download</a></li>
+	<li><a target="_blank" href="https://www.ultimacraft.com" class="button">Website</a></li>
+	<li><a target="_blank" href="https://www.ultimacraft.com/downloads" class="button icon fa-download">Download</a></li>
 </ul>
 </div>
 
