@@ -1,3 +1,42 @@
-title: My Jekyll Site
-description: A simple GitHub Pages + Jekyll site
-theme: minima
+# site settings
+title: Seggellion
+subtitle: 
+email: seggellion@altama.ca
+description: "I build polished web platforms, design deep game systems, and create tools that merge creativity with engineering. From real-time economic APIs to immersive voxel-based worlds, my work spans both production-ready code and game development innovation."
+baseurl: ""
+url: "https://seggellion.github.io"
+author:
+city: Victoria
+state: BC
+zip_code: 
+country: Canada
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/seggellion
+  GitLab:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/dustin-hill
+  Twitter: https://twitter.com/seggellion
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
